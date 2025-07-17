@@ -1,0 +1,41 @@
+- title: Gro’cer
+  subtitle: Medium monstrosity (shapechanger), chaotic neutral
+  artist: Train (@trintrain_)
+  image_path: grocer.png
+  armor_class: 17 (Natural Armor)
+  max_hit_points: 85 (9d10+36)
+  speed: 20 ft., climb 20 ft.
+  strength: 20 (+5)
+  dexterity: 17 (+3)
+  constitution: 18 (+4)
+  intelligence: 5 (-3)
+  wisdom: 13 (+1)
+  charisma: 13 (+1)
+  challenge_rating: 8
+  experience_points: 3600
+  source: "Homebrew"
+  attributes:
+    Skills: Athletics +8, Stealth +9, Perception +4, Deception +7
+    Damage Immunities: Cold/Ice Damage
+    Damage Vulnerabilities: Fire
+    Condition Immunities: Prone
+    Senses: Darkvision 60 ft., Blindsight 60 ft., Passive Perception 14
+  abilities:
+    Clean up on Isle Me? (Adhesive): The mimic adheres to anything it touches at will. A Huge or smaller creature adhered to the mimic is also grappled by it (escape DC 16).
+    False Appearance: While motionless, the mimic is indistinguishable from an ordinary object. While in the presence of an inanimate object that is Small or larger, it can use its bonus to Hide.
+    Paper or Plastic? (Shapechanger): The mimic can use its bonus action to polymorph into an object or back into its true, amorphous form. Its statistics are the same in each form. Any equipment it's wearing or carrying isn't transformed. It reverts to its true form if it dies.
+    Unexpected Item in the Bagging Area (Sneak Attack): The mimic has advantage on attack rolls against creatures that are surprised or that have not acted yet in combat. Upon hitting a creature under these conditions, the mimic deals an additional 11 (3d6) damage. It can deal this extra damage once on each of its turns.
+    Top Shelf Restock (Spider Climb): The mimic can climb difficult surfaces without needing to make an ability check.
+    Food Fight!! (Sticky Pseudopods): The mimic has advantage on attack rolls against creatures grappled by it. Creatures also have disadvantage on ability checks to escape the grapple.
+    Super Taster (Loot Sense): The mimic can pinpoint the location of all objects within 1 mile of it.
+    Grocery Glutton (Hoard Eater): Upon reducing an object (magical or non-magical) to 0 hit points, the hoard eater mimic can completely destroy the object by devouring it. This feature does not apply to artifacts.
+  actions:
+    Multiattack: The mimic can make a CHOMP attack on its turn. Alternatively, it can choose to make two attacks with its pseudopods.
+    CHOMP: Melee Weapon Attack +8, 5 ft., 14 (2d8+5) piercing damage + 9 (2d8) acid damage and the target is swallowed.
+    Food Melee Weapon Attack: +8, 10 ft., one target. Hit 12 (2d6+5) bludgeoning damage. This attack can benefit from Adhesive.
+  legendary:
+    - This mimic can take 3 legendary actions, from the options below.<br/>
+    - CHOMP: Melee Weapon Attack +8 to hit, 5 ft., one target. Hit 14 (2d8+5) piercing damage + 9 (2d8) acid damage and the target is swallowed.
+    - Putting Up the Groceries (Artificial Camouflage): The mimic can take the Hide action as long as there are inanimate objects nearby.
+    - Backstock Restock (Recovery): The mimic can end one condition or spell effect on it.
+
